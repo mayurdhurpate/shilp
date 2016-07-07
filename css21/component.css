@@ -29,7 +29,7 @@ body {
 
 .grid-wrap {
 	margin: 10px auto 0;
-	max-width: 1090px;
+	
 	width: 100%;
 	padding: 0;
 	-webkit-perspective: 1500px;
@@ -51,12 +51,11 @@ body {
 
 .grid figure,
 .grid .placeholder {
-	width: 340px;
-	height: 300px;
+
 }
 
 .grid figure {
-	margin: 7px;
+	
 	display: inline-block;
 	cursor: pointer;
 	-webkit-touch-callout: none;
