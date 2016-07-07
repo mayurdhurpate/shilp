@@ -1,0 +1,56 @@
+.idp{
+	background: url(../img_event/industry.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.city{
+	background: url(../img_event/smart.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.presentation{
+	background: url(../img_event/research.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+/* Button styling */
+.idp button{
+		background: url(../img/b2.png);
+}
+.idp button:hover{
+	background: url(../img/b1.png);
+}
+.city button{
+		background: url(../img/b2.png);
+}
+.city button:hover{
+	background: url(../img/b1.png);
+}
+.presentation button{
+		background: url(../img/b2.png);
+}
+.presentation button:hover{
+	background:url(../img/b1.png);
+}
+
+.idp-header{
+	background: #a5682a;
+}
+.city-header{
+	background: #2f847f;
+}
+.presentation-header{
+	background: #376a82;
+}
+.idp-about h2{
+	color: #a5682a;
+}
+.city-about h2{
+	color: #2f847f;
+}
+.presentation-about h2{
+	color: #376a82;
+}
