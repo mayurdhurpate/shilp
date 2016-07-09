@@ -1,3 +1,14 @@
+.about-head{
+	color:#fff;
+	
+/* 	font-family: 'Helvetica 27px', sansserif; */
+	
+}
+.about-text{
+	color:#fff;
+	/* font-family: 'Arial 27px', sansserif; */
+	padding-top:25px;
+}
 .hero{
 	padding-top:0px;
 }
