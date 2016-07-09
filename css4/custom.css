@@ -337,7 +337,7 @@ Color for dotted part */
 }
 /* Color for dotted part */ 
 .demo-1 .bg-3 .deco {
-	border-color: #580f1d;
+	border-color: #521411;
 	background-image:url(../images1/3.png);
 	background-position:center;
 	background-repeat:no-repeat;
@@ -348,7 +348,7 @@ Color for dotted part */
 	color: #290909;
 	/* font-size:130px; */
 	text-shadow: 0 0 1px #290909;
-	box-shadow: inset 0 0 0 10px #e8985d;
+	box-shadow: inset 0 0 0 10px #ef645c;
 }
 /* Style for the heading part and bottommost text*/
 .demo-1 .bg-3 h2,
