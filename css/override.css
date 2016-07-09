@@ -47,3 +47,34 @@
     margin: 0 0 -120px 0;
 	background-color:rgba(48,65,81,0.5);
 }
+@media screen and (max-width: 1240px){
+.date{
+    padding: 14px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 16px;
+    bottom: 50%;
+    margin: 0 0 -120px 0;
+}
+}
+@media screen and (max-width: 930px){
+.date{
+      padding: 10px;
+    font-size: 17px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 15px;
+    margin: 0px 0 -128px 0;
+}
+
+@media screen and (max-width: 660px){
+.date{
+    line-height: 0px;
+    font-size: 12px;
+    margin-bottom: -40px;
+    letter-spacing: 1px;
+	min-width: 35%;
+    left: 32.5%;
+	padding: 13px;
+	 font-weight: 300;
+}
