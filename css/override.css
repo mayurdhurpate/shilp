@@ -11,3 +11,23 @@
 .hero{
 	padding-top:0px;
 }
+.btn-ambassador{
+	color: #fff;
+    background-color: #b50446;
+    border-color: #a0033f;
+}
+.btn-ambassador:hover{
+    color: #fff;
+    background-color: #77022e;
+    border-color: #6a0229;
+}
+.btn-about{
+	color: #fff;
+    background-color: #d93600;
+    border-color: #ca3300;
+}
+.btn-about:hover{
+	color: #fff;
+    background-color: #a82b00;
+    border-color: #972600;
+}
