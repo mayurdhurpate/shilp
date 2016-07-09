@@ -269,8 +269,8 @@ p.dummy-text:nth-child(3) {
 }
 
 .dummy-img {
-	height: 400px;
-	background-color: #ddd;
+	
+	background-color: transparent;
 	margin: 30px auto;
 }
 
@@ -278,8 +278,8 @@ p.dummy-text:nth-child(3) {
 	text-align: left;
 	margin: 0 auto;
 	padding: 10px 0;
-	color: #ddd;
-	font-size: 1em;
+	color: #111111;
+	font-size: 0.5em;
 	font-family: 'Blokk', Arial, serif;
 }
 
