@@ -428,7 +428,7 @@ Color for dotted part */
 }
 /* Color for the dotted part */
 .demo-1 .bg-5 .deco {
-	border-color: #388440;
+	border-color: #38844e;
 	background-image:url(../images1/5.png);
 	background-repeat:no-repeat;
 	background-size:60%;
